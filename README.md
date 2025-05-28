@@ -14,5 +14,7 @@ These are records of CVEs found by honorseclab members !
 |[CVE-2025-3410](https://github.com/honorseclab/vulns/blob/main/mymagicpower_AIAS/CVE-2025-3410_arbitrary-file-upload/details.md)| mymagicpower  | Arbitary File Upload  | AVulHunter |
 | [CVE-2025-3411](https://github.com/honorseclab/vulns/blob/main/mymagicpower_AIAS/CVE-2025-3411_SSRF/details.md)| mymagicpower  | SSRF  | AVulHunter |
 | [CVE-2025-3412](https://github.com/honorseclab/vulns/blob/main/mymagicpower_AIAS/CVE-2025-3412_SSRF/details.md)| mymagicpower  | SSRF  | AVulHunter |
-| [Applying](https://github.com/honorseclab/vulns/blob/main/AgileBPM_agile-bpm-basic/RCE.md)| AgileBPM  | RCE  | AVulHunter |
-| [Applying](https://github.com/honorseclab/vulns/blob/main/AgileBPM_agile-bpm-basic/RCE2.md)| AgileBPM  | RCE  | AVulHunter |
+| [Applying](https://github.com/honorseclab/vulns/blob/main/AgileBPM_agile-bpm-basic/RCE.md)| [AgileBPM](https://gitee.com/agile-bpm/agile-bpm-basic)   | RCE  | AVulHunter |
+| [Applying](https://github.com/honorseclab/vulns/blob/main/AgileBPM_agile-bpm-basic/RCE2.md)| [AgileBPM](https://gitee.com/agile-bpm/agile-bpm-basic)  | RCE  | AVulHunter |
+| [Applying](https://github.com/honorseclab/vulns/blob/main/aaluoxiang_oasystem/ArbitaryFileRead01.md)| [aaluoxiang](https://gitee.com/aaluoxiang/oa_system)  |  Arbitary File Read    | AVulHunter |
+| [Applying](https://github.com/honorseclab/vulns/blob/main/aaluoxiang_oasystem/ArbitaryFileRead02.md)| [aaluoxiang](https://gitee.com/aaluoxiang/oa_system)|  Arbitary File Read    | AVulHunter |
