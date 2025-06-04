@@ -16,5 +16,5 @@ These are records of CVEs found by honorseclab members !
 | [CVE-2025-3412](https://github.com/honorseclab/vulns/blob/main/mymagicpower_AIAS/CVE-2025-3412_SSRF/details.md)| mymagicpower  | SSRF  | AVulHunter |
 | [Applying](https://github.com/honorseclab/vulns/blob/main/AgileBPM_agile-bpm-basic/RCE.md)| [AgileBPM](https://gitee.com/agile-bpm/agile-bpm-basic)   | RCE  | AVulHunter |
 | [Applying](https://github.com/honorseclab/vulns/blob/main/AgileBPM_agile-bpm-basic/RCE2.md)| [AgileBPM](https://gitee.com/agile-bpm/agile-bpm-basic)  | RCE  | AVulHunter |
-| [Applying](https://github.com/honorseclab/vulns/blob/main/aaluoxiang_oasystem/ArbitaryFileRead01.md)| [aaluoxiang](https://gitee.com/aaluoxiang/oa_system)  |  Arbitary File Read    | AVulHunter |
-| [Applying](https://github.com/honorseclab/vulns/blob/main/aaluoxiang_oasystem/ArbitaryFileRead02.md)| [aaluoxiang](https://gitee.com/aaluoxiang/oa_system)|  Arbitary File Read    | AVulHunter |
+| [CVE-2025-5544](https://www.cve.org/CVERecord?id=CVE-2025-5544)| [aaluoxiang](https://gitee.com/aaluoxiang/oa_system)  |  Arbitary File Read    | AVulHunter |
+| [CVE-2025-5545](https://www.cve.org/CVERecord?id=CVE-2025-5545)| [aaluoxiang](https://gitee.com/aaluoxiang/oa_system)|  Arbitary File Read    | AVulHunter |
