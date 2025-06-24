@@ -18,3 +18,4 @@ These are records of CVEs found by honorseclab members !
 |[CVE-2025-5680](https://www.cve.org/CVERecord?id=CVE-2025-5680)| [AgileBPM](https://gitee.com/agile-bpm/agile-bpm-basic)  | RCE  | AVulHunter |
 | [CVE-2025-5544](https://www.cve.org/CVERecord?id=CVE-2025-5544)| [aaluoxiang](https://gitee.com/aaluoxiang/oa_system)  |  Arbitary File Read    | AVulHunter |
 | [CVE-2025-5545](https://www.cve.org/CVERecord?id=CVE-2025-5545)| [aaluoxiang](https://gitee.com/aaluoxiang/oa_system)|  Arbitary File Read    | AVulHunter |
+| [CVE-2025-6517](https://www.cve.org/CVERecord?id=CVE-2025-6517)| [maxkey](https://gitee.com/dromara/MaxKey)|  SSRF    | AVulHunter |
